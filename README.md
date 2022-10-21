@@ -5,7 +5,7 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
 </p>
 
 <p align="center">
-Acesse o site aqui: [Rocketpay](https://rocketpay-explorer-lab-01-gules.vercel.app)
+Acesse o site aqui: https://rocketpay-explorer-lab-01-gules.vercel.app
 </p>
 
 <p align="center">
